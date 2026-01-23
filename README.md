@@ -1,4 +1,4 @@
-# SeisAudio
+# PySeisAudio
 Convert earthquake records into audible audio.
 
 Python implementation of the SAGE [SeisSound](https://ds.iris.edu/ds/products/seissound/) audio/video seismic waveform visualization pipeline, built for ease‑of‑use, extensibility, and modern workflows.
